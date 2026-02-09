@@ -1,0 +1,21 @@
+{
+  "run_timestamp": "2026-02-09_06-50-01",
+  "tickers": [
+    "SNDK",
+    "INTC",
+    "SMCI",
+    "HPE"
+  ],
+  "history_period": "1y",
+  "total_articles": 19,
+  "files": [
+    "prices.json",
+    "fundamentals.json",
+    "news.json",
+    "analyst_ratings.json",
+    "historical/SNDK.csv",
+    "historical/INTC.csv",
+    "historical/SMCI.csv",
+    "historical/HPE.csv"
+  ]
+}

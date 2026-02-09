@@ -1,0 +1,15 @@
+services:
+    stockagent:
+      image: tinguyen2024/stockagent:v1.0
+      container_name: stockagent
+      ports:
+        - "5000:5000"
+      volumes:
+        - ./models:/data/models:ro
+        - ./data_runs:/app/data_runs
+      environment:
+        - MODELS_DIR=/data/models
+        - CONTEXT_LENGTH=4096
+        - THREADS=8
+      restart: unless-stopped
+

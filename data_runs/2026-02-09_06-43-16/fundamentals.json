@@ -1,0 +1,92 @@
+{
+  "SNDK": {
+    "revenue": 8929000448,
+    "net_income": -1041000000,
+    "profit_margin": -0.11659,
+    "operating_margin": 0.35504,
+    "debt_to_equity": 7.96,
+    "free_cash_flow": 1251500032,
+    "earnings_growth": 6.18,
+    "revenue_growth": 0.612
+  },
+  "ORCL": {
+    "revenue": 61015998464,
+    "net_income": 15425000448,
+    "profit_margin": 0.25280002,
+    "operating_margin": 0.31997,
+    "debt_to_equity": 432.511,
+    "free_cash_flow": -10208000000,
+    "earnings_growth": 0.909,
+    "revenue_growth": 0.142
+  },
+  "INTC": {
+    "revenue": 52852998144,
+    "net_income": -267000000,
+    "profit_margin": -0.00505,
+    "operating_margin": 0.051409997,
+    "debt_to_equity": 37.282,
+    "free_cash_flow": -4504500224,
+    "earnings_growth": 0,
+    "revenue_growth": -0.041
+  },
+  "AAPL": {
+    "revenue": 435617005568,
+    "net_income": 117776998400,
+    "profit_margin": 0.27037,
+    "operating_margin": 0.35374,
+    "debt_to_equity": 102.63,
+    "free_cash_flow": 106312753152,
+    "earnings_growth": 0.183,
+    "revenue_growth": 0.157
+  },
+  "AMD": {
+    "revenue": 34638999552,
+    "net_income": 4268999936,
+    "profit_margin": 0.12515001,
+    "operating_margin": 0.17059,
+    "debt_to_equity": 6.359,
+    "free_cash_flow": 4587250176,
+    "earnings_growth": 2.171,
+    "revenue_growth": 0.341
+  },
+  "GOOGL": {
+    "revenue": 402835996672,
+    "net_income": 132169998336,
+    "profit_margin": 0.32810003,
+    "operating_margin": 0.31568,
+    "debt_to_equity": 16.133,
+    "free_cash_flow": 38088376320,
+    "earnings_growth": 0.311,
+    "revenue_growth": 0.18
+  },
+  "NVDA": {
+    "revenue": 187141996544,
+    "net_income": 99198001152,
+    "profit_margin": 0.53007,
+    "operating_margin": 0.63168997,
+    "debt_to_equity": 9.102,
+    "free_cash_flow": 53282873344,
+    "earnings_growth": 0.667,
+    "revenue_growth": 0.625
+  },
+  "ARM": {
+    "revenue": 4671000064,
+    "net_income": 801000000,
+    "profit_margin": 0.17148,
+    "operating_margin": 0.15378,
+    "debt_to_equity": 5.912,
+    "free_cash_flow": 824750016,
+    "earnings_growth": -0.123,
+    "revenue_growth": 0.263
+  },
+  "TSLA": {
+    "revenue": 94827003904,
+    "net_income": 3793999872,
+    "profit_margin": 0.040009998,
+    "operating_margin": 0.047030002,
+    "debt_to_equity": 17.763,
+    "free_cash_flow": 3732624896,
+    "earnings_growth": -0.606,
+    "revenue_growth": -0.031
+  }
+}

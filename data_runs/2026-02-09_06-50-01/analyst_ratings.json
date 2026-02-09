@@ -1,0 +1,30 @@
+{
+  "SNDK": {
+    "recommendation": "buy",
+    "target_mean": 688.1579,
+    "target_high": 1000.0,
+    "target_low": 300.0,
+    "num_analysts": 19
+  },
+  "INTC": {
+    "recommendation": "hold",
+    "target_mean": 47.17125,
+    "target_high": 71.5,
+    "target_low": 20.4,
+    "num_analysts": 40
+  },
+  "SMCI": {
+    "recommendation": "hold",
+    "target_mean": 41.3125,
+    "target_high": 63.0,
+    "target_low": 15.0,
+    "num_analysts": 16
+  },
+  "HPE": {
+    "recommendation": "buy",
+    "target_mean": 26.44444,
+    "target_high": 31.0,
+    "target_low": 21.0,
+    "num_analysts": 18
+  }
+}

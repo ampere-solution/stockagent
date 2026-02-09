@@ -1,0 +1,50 @@
+{
+  "SNDK": {
+    "current_price": 597.95,
+    "previous_close": 576.2,
+    "day_change": 21.75,
+    "market_cap": 88237834240,
+    "volume": 21327302,
+    "pe_ratio": 0,
+    "beta": 1.0,
+    "52w_high": 725.0,
+    "52w_low": 27.885,
+    "company_name": "Sandisk Corporation"
+  },
+  "INTC": {
+    "current_price": 50.59,
+    "previous_close": 48.24,
+    "day_change": 2.3500000000000014,
+    "market_cap": 252706078720,
+    "volume": 115600223,
+    "pe_ratio": 0,
+    "beta": 1.377,
+    "52w_high": 54.6,
+    "52w_low": 17.67,
+    "company_name": "Intel Corporation"
+  },
+  "SMCI": {
+    "current_price": 34.38,
+    "previous_close": 30.85,
+    "day_change": 3.530000000000001,
+    "market_cap": 20523868160,
+    "volume": 49279810,
+    "pe_ratio": 25.09489,
+    "beta": 1.523,
+    "52w_high": 66.44,
+    "52w_low": 27.6,
+    "company_name": "Super Micro Computer, Inc."
+  },
+  "HPE": {
+    "current_price": 23.61,
+    "previous_close": 22.71,
+    "day_change": 0.8999999999999986,
+    "market_cap": 31508328448,
+    "volume": 12032137,
+    "pe_ratio": 0,
+    "beta": 1.321,
+    "52w_high": 26.44,
+    "52w_low": 11.965,
+    "company_name": "Hewlett Packard Enterprise Company"
+  }
+}

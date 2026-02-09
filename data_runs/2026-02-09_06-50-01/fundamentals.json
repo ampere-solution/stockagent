@@ -1,0 +1,42 @@
+{
+  "SNDK": {
+    "revenue": 8929000448,
+    "net_income": -1041000000,
+    "profit_margin": -0.11659,
+    "operating_margin": 0.35504,
+    "debt_to_equity": 7.96,
+    "free_cash_flow": 1251500032,
+    "earnings_growth": 6.18,
+    "revenue_growth": 0.612
+  },
+  "INTC": {
+    "revenue": 52852998144,
+    "net_income": -267000000,
+    "profit_margin": -0.00505,
+    "operating_margin": 0.051409997,
+    "debt_to_equity": 37.282,
+    "free_cash_flow": -4504500224,
+    "earnings_growth": 0,
+    "revenue_growth": -0.041
+  },
+  "SMCI": {
+    "revenue": 28057104384,
+    "net_income": 872780032,
+    "profit_margin": 0.03111,
+    "operating_margin": 0.0374,
+    "debt_to_equity": 75.28,
+    "free_cash_flow": 103480000,
+    "earnings_growth": 0.192,
+    "revenue_growth": 1.234
+  },
+  "HPE": {
+    "revenue": 34296000512,
+    "net_income": -59000000,
+    "profit_margin": 0.00166,
+    "operating_margin": 0.034089997,
+    "debt_to_equity": 97.265,
+    "free_cash_flow": -213500000,
+    "earnings_growth": -0.889,
+    "revenue_growth": 0.144
+  }
+}
